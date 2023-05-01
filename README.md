@@ -2,9 +2,9 @@
 
 ## **Abstract**
 
-To enhance low-light images
-To restore the images to a normal light image condition
-To remove noise, adjust the brightness and contrast, and produce images that look like they were taken in normal light conditions.
+- To enhance low-light images
+- To restore the images to a normal light image condition
+- To remove noise, adjust the brightness and contrast, and produce images that look like they were taken in normal light conditions.
 
 ## **Introduction**
 
@@ -45,6 +45,6 @@ With our custom model architecture, we were able to achieve low latency as well 
 
 ## **References**
 
-● Syed Waqas Zamir, et. al “Learning Enriched Features for Real Image Restoration and Enhancement”
+- Syed Waqas Zamir, et. al “Learning Enriched Features for Real Image Restoration and Enhancement”
 
-● Karen Simonyan, Andrew Zisserman “Very Deep Convolutional Networks for Large-Scale Image Recognition”
+- Karen Simonyan, Andrew Zisserman “Very Deep Convolutional Networks for Large-Scale Image Recognition”
